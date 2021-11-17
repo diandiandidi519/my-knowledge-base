@@ -1,0 +1,31 @@
+{
+  "name": "my-knowledge-base",
+  "version": "1.0.0",
+  "description": "my knowledge",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diandiandidi519/my-knowledge-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diandiandidi519/my-knowledge-base/issues"
+  },
+  "homepage": "https://github.com/diandiandidi519/my-knowledge-base#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "commitizen": "^4.2.4",
+    "git-cz": "^4.8.0",
+    "husky": "^7.0.4",
+    "standard-version": "^9.3.2"
+  }
+}
