@@ -26,7 +26,7 @@
 * 工程化
   * monorepo
   * CLI
-  * 微前端
+  * [微前端](/docs/engine/micro_frontend.md)
   * 监控/埋点
   * 组件化
   * 模块化
